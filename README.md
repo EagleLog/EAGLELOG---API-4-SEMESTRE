@@ -87,16 +87,16 @@ Este projeto tem como objetivo desenvolver uma API para análise de dados portu�
 
 # Competências desenvolvidas
 
-Tratamento e análise de dados
-Criação de visualizações e dashboards
-Indicadores e comparativos estatísticos
-Mapas de calor e análises geográficas
-Uso de filtros e interatividade
-Pensamento crítico
-Comunicação de insights
-Organização
-Trabalho em equipe
-Resolução de problemas
+- Tratamento e análise de dados
+- Criação de visualizações e dashboards
+- Indicadores e comparativos estatísticos
+- Mapas de calor e análises geográficas
+- Uso de filtros e interatividade
+- Pensamento crítico
+- Comunicação de insights
+- Organização
+- Trabalho em equipe
+- Resolução de problemas
 
 # Agradecimentos 
 
