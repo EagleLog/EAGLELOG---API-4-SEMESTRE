@@ -80,6 +80,8 @@ Este projeto tem como objetivo desenvolver uma API para an√°lise de dados portu√
 
 <img width="600" height="331" alt="image" src="https://github.com/user-attachments/assets/29ea98a8-bddc-460e-a2bc-3b3218982394" />
 
+
+
 <img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/3039fba7-1798-4b50-ab07-61e17a2f37e5" />
 
 
