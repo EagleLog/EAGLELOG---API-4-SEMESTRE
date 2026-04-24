@@ -71,7 +71,37 @@ Este projeto tem como objetivo desenvolver uma API para análise de dados portu�
 | Feira de Soluções               | 18/06/2026 | a fazer | [MVP](MVP/sp3.md)  |
 
 
+# *Dashboard*
 
+📂[*Dashboard* executavel](https://app.powerbi.com/view?r=eyJrIjoiNDc3M2VkYTItZDI4MC00ZjBkLWFjMGUtYTM0YzkzNmU2MjQxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+
+# 1º SPRINT
+
+# 2º SPRINT 
+📂[*Dashboard* executavel]()
+
+
+# 3º SPRINT 
+📂[*Dashboard* executavel]([https://app.powerbi.com/view?])
+
+
+# Competências desenvolvidas
+
+Tratamento e análise de dados
+Criação de visualizações e dashboards
+Indicadores e comparativos estatísticos
+Mapas de calor e análises geográficas
+Uso de filtros e interatividade
+Pensamento crítico
+Comunicação de insights
+Organização
+Trabalho em equipe
+Resolução de problemas
+
+# Agradecimentos 
+
+Agradecemos a todos os colegas e professores envolvidos na realização deste projeto, pelo apoio, orientações e colaboração ao longo do desenvolvimento. Este trabalho é resultado de um esforço coletivo e da aplicação prática dos conhecimentos adquiridos durante o semestre.
+  
   
 
 <p align="center">
