@@ -88,6 +88,10 @@ Este projeto tem como objetivo desenvolver uma API para análise de dados portu�
 
 # 2º SPRINT 
 📂[*Dashboard* executavel]()
+<img width="800" height="453" alt="WhatsApp Image 2026-05-29 at 18 06 27" src="https://github.com/user-attachments/assets/cbaad1f6-1b96-4c34-84c5-9addcd220eb0" />
+<img width="800" height="452" alt="WhatsApp Image 2026-05-29 at 18 06 26 (1)" src="https://github.com/user-attachments/assets/6a088f28-9fc3-472f-9ec6-6ca98b29853f" />
+<img width="800" height="449" alt="WhatsApp Image 2026-05-29 at 18 06 26" src="https://github.com/user-attachments/assets/313d3702-2a79-44be-9dc9-c376e6ba460c" />
+
 
 # 3º SPRINT 
 📂[*Dashboard* executavel]()
